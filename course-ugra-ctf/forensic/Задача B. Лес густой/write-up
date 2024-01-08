@@ -1,0 +1,7 @@
+распаковываем архив
+
+gzip -d name.gz
+
+далее просматриваем файл, сортируя по слову ugra
+
+cat filename.txt | grep ugra
